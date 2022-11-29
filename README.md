@@ -1,0 +1,1 @@
+Mini-React project "Expense accounting". It includes the ability to add expenses by specifying the date, amount and destination of the expense. It is also possible to sort expenses by year, and expenses by month are displayed in the form of a diagram. Simple design and implementation. The project was created using create-react-app.
